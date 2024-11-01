@@ -1,4 +1,4 @@
-# blog_flask
+# Blog_Flask
 
 #### Video Demo: https://youtu.be/t3SGqwRMO6o
 #### Description:
