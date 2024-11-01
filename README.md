@@ -1,6 +1,6 @@
 # BLOG_FLASK
-A Social Blogging Application
-BLOG phải có các chức năng:
+# A Social Blogging Application
+# BLOG phải có các chức năng:
 - Đk/ đăng nhập user
 - Thông tin cả nhân và Avartar
 - Phân trang blog
